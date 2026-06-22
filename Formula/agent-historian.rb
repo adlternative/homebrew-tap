@@ -1,8 +1,8 @@
 class AgentHistorian < Formula
   desc "Search and read past AI coding-agent conversation history (ochist)"
   homepage "https://github.com/adlternative/agent-historian"
-  url "https://registry.npmjs.org/agent-historian/-/agent-historian-0.5.1.tgz"
-  sha256 "e64ab4c6039b874c37483a2a4b1e450b6ae920070ee52f9862f05b2bab139ac3"
+  url "https://registry.npmjs.org/agent-historian/-/agent-historian-0.6.0.tgz"
+  sha256 "cd3f669c6746c02b9bc7ecf58f1651cf08186269f0b888048a133b17de77de3d"
   license "MIT"
 
   depends_on "node"
